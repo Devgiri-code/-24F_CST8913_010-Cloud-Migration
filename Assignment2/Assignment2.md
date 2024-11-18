@@ -1,6 +1,10 @@
 
 # VMware to Azure Migration Lab Documentation
 
+## Team
+1. Abhinav 041129125
+2. Devgiri Gosai 041164730
+
 ## Table of Contents
 1. [Introduction](#introduction)  
 2. [Environment Setup](#environment-setup)  
